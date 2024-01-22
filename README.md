@@ -5,7 +5,7 @@
 
 
 <h1>Ziti assado</h1>
-<p> img src= https://www.allrecipes.com/thmb/_w1TzqkgDSbiKZ70bhrz8B4thls=/0x512/filters:no_upscale():max_bytes(150000):strip_
+<p> <img src= https://www.allrecipes.com/thmb/_w1TzqkgDSbiKZ70bhrz8B4thls=/0x512/filters:no_upscale():max_bytes(150000):strip_ 
 <hr>
 <p>Esse ziti assado é sempre um sucesso! Uma senhora com quem trabalhei trouxe isso um dia e todos adoraram. Agora é o favorito de todos os meus convidados para jantar. Fiz isso também sem carne e foi bem recebido.</p>
 <hr>
