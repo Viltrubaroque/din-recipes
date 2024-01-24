@@ -4,7 +4,7 @@
 
 
 <h1>Ziti assado</h1>
-<p><img src="./arquivo/logo ziti"
+<p><img src="./arquivo/logo ziti"></p>
 <hr>
 <p>Esse ziti assado é sempre um sucesso! Uma senhora com quem trabalhei trouxe isso um dia e todos adoraram. Agora é o favorito de todos os meus convidados para jantar. Fiz isso também sem carne e foi bem recebido.</p>
 <hr>
