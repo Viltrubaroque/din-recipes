@@ -4,7 +4,7 @@
 
 
 <h1>Ziti assado</h1>
-<p><img src="./arquivo/logo ziti"></p>
+<p><img src= https://receitason.com/wp-content/uploads/2023/04/ziti-assado.jpg></p>
 <hr>
 <p>Esse ziti assado é sempre um sucesso! Uma senhora com quem trabalhei trouxe isso um dia e todos adoraram. Agora é o favorito de todos os meus convidados para jantar. Fiz isso também sem carne e foi bem recebido.</p>
 <hr>
@@ -31,3 +31,4 @@ Adicione o macarrão ziti e cozinhe até ficar al dente, cerca de 8 minutos; ral
 Cubra com queijo parmesão ralado.</p>
 <h2>Step5</h2>
 <p>Asse no forno pré-aquecido até aquecer e os queijos derreterem, cerca de 30 minutos.</p>
+
