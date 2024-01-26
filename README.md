@@ -17,7 +17,7 @@
 <p>6 onças de queijo mussarela ralado</p>
 <p>2 colheres de sopa de queijo parmesão ralado</p>
 <hr>
-<h1>instruções</h1>
+<h1>Instruções</h1>
 <hr>
 <h2>Step1</h2>
 <p>Leve uma panela grande com água levemente salgada para ferver. 
